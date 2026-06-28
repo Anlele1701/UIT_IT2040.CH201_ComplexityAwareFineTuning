@@ -1,0 +1,8 @@
+# Large model files - too large for GitHub (>100MB)
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# OS
+.DS_Store

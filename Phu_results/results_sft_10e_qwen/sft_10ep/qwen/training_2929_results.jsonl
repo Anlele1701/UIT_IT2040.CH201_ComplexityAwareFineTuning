@@ -1,0 +1,13 @@
+{"desc": "test_balanced", "epoch": 0, "accuracy": 0.2041942604856512}
+{"desc": "validation", "epoch": 1, "accuracy": 0.32}
+{"desc": "validation", "epoch": 2, "accuracy": 0.44}
+{"desc": "validation", "epoch": 3, "accuracy": 0.43666666666666665}
+{"desc": "validation", "epoch": 4, "accuracy": 0.45666666666666667}
+{"desc": "validation", "epoch": 5, "accuracy": 0.45666666666666667}
+{"desc": "test_balanced", "epoch": 5, "accuracy": 0.4624724061810154}
+{"desc": "validation", "epoch": 6, "accuracy": 0.5033333333333333}
+{"desc": "validation", "epoch": 7, "accuracy": 0.5133333333333333}
+{"desc": "validation", "epoch": 8, "accuracy": 0.53}
+{"desc": "validation", "epoch": 9, "accuracy": 0.5233333333333333}
+{"desc": "validation", "epoch": 10, "accuracy": 0.5433333333333333}
+{"desc": "test_balanced", "epoch": 10, "accuracy": 0.45364238410596025}
